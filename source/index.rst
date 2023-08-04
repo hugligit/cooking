@@ -3,13 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Recipes's documentation!
+WELCOME TO RECIPES'S DOCUMENTATION!
 ===================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+
+
+
+   categories/Book_Favourites.rst
+   categories/Cuttings.rst
+   categories/Links.rst
+   categories/Other.rst
+   categories/Riverford.rst
+   categories/School.rst
+   categories/Slovakian.rst
+   categories/Christmas_Honeysuckle.rst
 
 
 Indices and tables
