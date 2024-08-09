@@ -3,20 +3,24 @@ Plnené_Medové_Rezy
 ------------------
 
 Cesto:
-  80g tuku
-  160g kryštálového cukru
-  2 vajcia
-  2 lyžice medu
-  1 lyžička sódy bikarbóny
-  250g polohrubej muky
-  250g hladkej muky
-  mletá škorica a klinčeky
+
+* 80g tuku
+* 160g kryštálového cukru
+* 2 vajcia
+* 2 lyžice medu
+* 1 lyžička sódy bikarbóny
+* 250g polohrubej muky
+* 250g hladkej muky
+* mletá škorica a klinčeky
+
 Plnka:
-  500ml mlieka
-  250g masla
-  1 vrecúško krémového prášku Zlatý klas
-  250g práškového cukru
-  2 lyžice rumu
+
+* 500ml mlieka
+* 250g masla
+* 1 vrecúško krémového prášku Zlatý klas
+* 250g práškového cukru
+* 2 lyžice rumu
+
 Čokoládová poleva
 
 V kotlíku nad parou miešame do zhustnutia (asi 15 minút) cukor, tuk, vajcia, med, sódu bikarbónu, a trochu škorice a klinčekov.

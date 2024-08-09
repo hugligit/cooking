@@ -5,23 +5,26 @@ stuffed_butternut_squash_with_spinach_and_couscous
 Serves: 4
 
 Ingredients:
-  1 butternut squash
-  olive oil
-  150g couscous
-  ½ onioin chopped
-  1 red pepper chopped (optional)
-  ½ tin tomatoes of 200g tomatoes
-  1 tsp sugar
-  bunch card/spinach
-  splash of balsamic vinegar
-  spring onions
-  50g toasted pinenuts
-  50-100g feta crumbled
-  Herbs:
-    chives
-    parsley
-    mint
-    coriander
+
+* 1 butternut squash
+* olive oil
+* 150g couscous
+* ½ onioin chopped
+* 1 red pepper chopped (optional)
+* ½ tin tomatoes of 200g tomatoes
+* 1 tsp sugar
+* bunch card/spinach
+* splash of balsamic vinegar
+* spring onions
+* 50g toasted pinenuts
+* 50-100g feta crumbled
+
+Herbs:
+
+* chives
+* parsley
+* mint
+* coriander
 
 Cut the squash legthways, brush with olive oil, season and place in a medium oven for 30 mins.
 Scoop out a little of the flesh dice it and put to one side.

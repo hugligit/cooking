@@ -5,20 +5,23 @@ Blueberry_Friands_with_Fruit_Compote_and_Clotted_Cream
 Serves: 9
 
 Ingredients:
-  150g butter, melted and cooled
-  150g icing sugar
-  50g rice flour
-  100g ground almond
-  4 egg whites
-  1 tsp vanilla extract
-  handful of blueberries
-  golden caste sugar, optional
-  cake or muffin cases
-  To Taste:
-    mixed berries
-    knob of butter
-    icing sugar 
-  clotted cream to serve
+
+* 150g butter, melted and cooled
+* 150g icing sugar
+* 50g rice flour
+* 100g ground almond
+* 4 egg whites
+* 1 tsp vanilla extract
+* handful of blueberries
+* golden caste sugar, optional
+* cake or muffin cases
+
+To Taste:
+
+* mixed berries
+* knob of butter
+* icing sugar 
+* clotted cream to serve
 
 Preheat the oven to 180°C.
 Whisk the egg whites withe the vanilla ectract until light and fluffy-you want to stop before they reach soft peak stage so don't get too carried away.

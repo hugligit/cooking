@@ -3,28 +3,31 @@ Nurnberg-Style_Lebkuchen_or_Gingerbread
 ---------------------------------------
 
 Ingredients:
-  400g ground almonds
-  100g candied orange
-  100g candied lemon
-  200g raisins
-  4 eggs
-  ½ cup brown sugar
-  ½ cup honey
-  20ml rum
-  100g butter
-  1 tbsp cinnamon
-  1 tbsp Lebkuchen mix
-  ½ pack baking powder
-  oblaten/round wafer
+
+* 400g ground almonds
+* 100g candied orange
+* 100g candied lemon
+* 200g raisins
+* 4 eggs
+* ½ cup brown sugar
+* ½ cup honey
+* 20ml rum
+* 100g butter
+* 1 tbsp cinnamon
+* 1 tbsp Lebkuchen mix
+* ½ pack baking powder
+* oblaten/round wafer
+
   Lebkuchen mix:
-    2 tbsp cinnamon
-    2 tsp ground cloves
-    ½ tsp ground allspice
-    ¼ tsp ground nutmeg
-    ½ tsp ground coriander
-    ½ tsp ground cardamom
-    ½ tsp ground ginger
-    ½ tsp ground anise seed
+
+* 2 tbsp cinnamon
+* 2 tsp ground cloves
+* ½ tsp ground allspice
+* ¼ tsp ground nutmeg
+* ½ tsp ground coriander
+* ½ tsp ground cardamom
+* ½ tsp ground ginger
+* ½ tsp ground anise seed
 
 Combine the raisins, candied orange and lemon together and shred into a food processor until it becomes a rough and very sticky mass.
 Pour into a bowl of appropriate size add almonds, rum, cover with kitchen foil and let it stay overnight.

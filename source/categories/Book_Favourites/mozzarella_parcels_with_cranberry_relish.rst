@@ -8,11 +8,10 @@ Appetizers
 Serves 6
 
 Ingredients: Mozzarella Parcels: 125g mozzarella cheese, ungrated
-8 slices of thin WHITE bread
-2 beaten, medium eggs salt fresly ground black pepper 300ml olive oil For
-  the relish: 125g cranberries
-2 tbsp fresh orange juice grated rind of 1 orange 50g light brown sugar
-1 tbsp port(optional)
+* slices of thin WHITE bread
+* beaten, medium eggs salt fresly ground black pepper 300ml olive oil For the relish: 125g cranberries
+* tbsp fresh orange juice grated rind of 1 orange 50g light brown sugar
+* tbsp port(optional)
 
 Method: Slice the mozzarella thinly, remove crust from bread and make
 sanwiches with them.  Then, cut the mozzarella sanwiches into 5cm² squares

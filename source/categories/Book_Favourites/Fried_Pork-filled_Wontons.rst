@@ -8,17 +8,17 @@ Makes 24
 
 Ingredients: For the filling: 275g cooked pork 2-3 spring onions, trimed
 and finely chopped
-    2.5 cm piece fresh root ginger grated 
-    1 garlic clove peeled and crushed
-    1 small egg lightly beaten
-    1 tbsp soy sauce
-    1 tsp soft light brown sugar 24-30 wonton wrappers 8 cm ²
-    300 ml vegtable oil for deep frying For the ginger dipping sauce:
-    4 tbsp soy sauce 1-2 tsbp rice or raspberry vinegar
-    2.5 fresh root ginger peeled and finely silvered
-    1 tbsp sesame oil
-    1 tbsp soft light brown sugar 2-3 dashes hot chili sauce spring onions
-      to garnish
+* 2.5 cm piece fresh root ginger grated 
+* 1 garlic clove peeled and crushed
+* 1 small egg lightly beaten
+* 1 tbsp soy sauce
+* 1 tsp soft light brown sugar 24-30 wonton wrappers 8 cm ²
+* 300 ml vegtable oil for deep frying For the ginger dipping sauce:
+* 4 tbsp soy sauce 1-2 tsbp rice or raspberry vinegar
+* 2.5 fresh root ginger peeled and finely silvered
+* 1 tbsp sesame oil
+* 1 tbsp soft light brown sugar 2-3 dashes hot chili sauce spring onions
+*   to garnish
     
 Method:
   

@@ -4,19 +4,22 @@ Sachertorte
 
 
 Cake
-  250g flour
-  66.67g cocoa
-  0.83 tsp bicarbonate of soda
-  1.67 pinch salt
-  250g sugar
-  316.67ml hot water
-  75ml oil
-  1.67 tsp orange juice
+
+* 250g flour
+* 66.67g cocoa
+* 0.83 tsp bicarbonate of soda
+* 1.67 pinch salt
+* 250g sugar
+* 316.67ml hot water
+* 75ml oil
+* 1.67 tsp orange juice
+
 Glaze
-  166.67g chocolate
-  83.33g sugar
-  58.33ml water
-333.33g apricot jam
+
+* 166.67g chocolate
+* 83.33g sugar
+* 58.33ml water
+* 333.33g apricot jam
 
 Preheat oven
 Mix flour, cocoa, bacarbonate and salt for the dry mixture.
