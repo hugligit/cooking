@@ -30,7 +30,7 @@ jobs:
       - name: Build Sphinx documentation
         run: |
           sphinx-build -b html source docs
-          touch docs/.nojekyll    # disable Jekyll
+          # touch docs/.nojekyll    # disable Jekyll
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
