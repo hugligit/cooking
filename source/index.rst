@@ -21,6 +21,7 @@ WELCOME TO RECIPES'S DOCUMENTATION!
    categories/School.rst
    categories/Slovakian.rst
    categories/Christmas_Honeysuckle.rst
+   categories/Christmas.rst
 
 
 Indices and tables
